@@ -1,0 +1,22 @@
+.app-background {
+  min-height: 100vh;
+  display: flex;
+}
+.app-card {
+  display: flex;
+  flex-direction: column;
+}
+.heading {
+}
+.input-image-cont {
+  display: flex;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+}
+.description {
+}
+.list-container {
+  list-style-type: none;
+}
